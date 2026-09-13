@@ -1,0 +1,4 @@
+python-dotenv==1.0.0
+pyrogram==2.0.0
+pymongo==5.0.0
+pyrofork
